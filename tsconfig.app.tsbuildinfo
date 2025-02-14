@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/listcomponent.tsx","./src/components/listitem.tsx","./src/components/starbackground.tsx","./src/stores/liststore.ts","./tests/listcomponent.test.tsx","./tests/setuptests.ts","./jest-expo.d.ts"],"version":"5.6.3"}
